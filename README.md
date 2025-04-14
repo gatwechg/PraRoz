@@ -1,0 +1,1 @@
+This project, PraRoz WebPage, is a responsive webpage template showcasing web design and development courses. It features a navigation menu, search bar, login form, and social media icons, styled with CSS and Bootstrap Icons.
